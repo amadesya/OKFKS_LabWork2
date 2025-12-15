@@ -188,5 +188,8 @@ $comments_result = $conn->query("SELECT * FROM comments");
 
 <img width="1437" height="574" alt="image" src="https://github.com/user-attachments/assets/a3509f06-85b4-405b-ac67-b474e258b717" />
 
+# Тестирование приложения
+| Действие | Результат |
+
 
 
