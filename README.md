@@ -192,7 +192,7 @@ $comments_result = $conn->query("SELECT * FROM comments");
 | Действие | Результат |
 |----------|-----------|
 | Выполнить авторизацию без учетных данных ``` Логин: ' OR '1'='1 Пароль: ' OR '1'='1 ```| <img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/39c3b71c-c822-4ada-b73c-b68089e2597a" />|
-|Вход по учётной записью админа без пароля ``` Логин: admin'-- Пароль: 111 `` |<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/dff791e2-c734-47cb-b201-3c28b298ef66" /> |
+|Вход по учётной записью админа без пароля ``` Логин: admin'-- Пароль: 111 ``` |<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/dff791e2-c734-47cb-b201-3c28b298ef66" /> |
 |Вставить в поле ввода "Комментарий" скрипт <img width="1008" height="304" alt="image" src="https://github.com/user-attachments/assets/6a39e164-ede3-47b7-9e2b-357d7444b685" /> | <img width="1061" height="436" alt="image" src="https://github.com/user-attachments/assets/1467eca9-880b-4ce3-bf8b-ff49d707fc00" />|
 |||
  
