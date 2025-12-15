@@ -1,4 +1,4 @@
-# OKFKS_LabWork2
+<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/456f39df-926e-4992-bf68-7e1bdee33dff" /># OKFKS_LabWork2
 
 # Создание новой базы данных
 
@@ -191,7 +191,8 @@ $comments_result = $conn->query("SELECT * FROM comments");
 # Тестирование приложения
 | Действие | Результат |
 |----------|-----------|
-| Выполнить авторизацию без учетных данных | <img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/39c3b71c-c822-4ada-b73c-b68089e2597a" />|
-|----------|-----------|
+| Выполнить авторизацию без учетных данных ``` Логин: ' OR '1'='1 Пароль: ' OR '1'='1 ```| <img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/39c3b71c-c822-4ada-b73c-b68089e2597a" />|
+|Вход по учётной записью админа без пароля |<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/dff791e2-c734-47cb-b201-3c28b298ef66" /> /
+|
  
 
