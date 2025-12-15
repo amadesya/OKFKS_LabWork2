@@ -197,7 +197,7 @@ $comments_result = $conn->query("SELECT * FROM comments");
 |Смена admin email на "other@mail.ru" под учётной записью user |<img width="597" height="303" alt="image" src="https://github.com/user-attachments/assets/a714b7f1-3d0e-48ee-963e-154e52efaa24" />|
 |Публикация комментария под несуществующим пользователем в БД |<img width="484" height="348" alt="image" src="https://github.com/user-attachments/assets/7494bf4b-6a4f-4f03-9076-a1f327b97b8b" /> |
 
-<a href="https://github.com/amadesya/OKFKS_LabWork2/blob/main/php-script/task5.php" target="_blank">#Задание 5</a>
+<a href="https://github.com/amadesya/OKFKS_LabWork2/blob/main/php-script/task5.php" target="_blank"># Задание 5</a>
 
  
 
