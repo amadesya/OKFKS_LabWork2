@@ -191,5 +191,7 @@ $comments_result = $conn->query("SELECT * FROM comments");
 # Тестирование приложения
 | Действие | Результат |
 |----------|-----------|
-
+| выполнить авторизацию без учетных данных | <img width="528" height="316" alt="image" src="https://github.com/user-attachments/assets/b65bc11b-4567-463f-9b21-76946121342f" /> |
+|----------|-----------|
+ 
 
