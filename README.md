@@ -1,4 +1,4 @@
-<img width="1061" height="436" alt="image" src="https://github.com/user-attachments/assets/ae346078-995f-4458-8097-5241276e3d93" /># OKFKS_LabWork2
+# OKFKS_LabWork2
 
 # Создание новой базы данных
 
