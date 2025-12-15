@@ -196,5 +196,8 @@ $comments_result = $conn->query("SELECT * FROM comments");
 |Вставить в поле ввода "Комментарий" скрипт <img width="1008" height="304" alt="image" src="https://github.com/user-attachments/assets/6a39e164-ede3-47b7-9e2b-357d7444b685" /> | <img width="1061" height="436" alt="image" src="https://github.com/user-attachments/assets/1467eca9-880b-4ce3-bf8b-ff49d707fc00" />|
 |Смена admin email на "other@mail.ru" под учётной записью user |<img width="597" height="303" alt="image" src="https://github.com/user-attachments/assets/a714b7f1-3d0e-48ee-963e-154e52efaa24" />|
 |Публикация комментария под несуществующим пользователем в БД |<img width="484" height="348" alt="image" src="https://github.com/user-attachments/assets/7494bf4b-6a4f-4f03-9076-a1f327b97b8b" /> |
+
+<a href="https://github.com/amadesya/OKFKS_LabWork2/blob/main/php-script/task5.php" target="_blank">Задание 5</a>
+
  
 
